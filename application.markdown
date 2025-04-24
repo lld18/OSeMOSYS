@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-primer
 layout: sub-page
-title: CLEWs
+title: OSeMOSYS
 permalink: /applications/
 ---
 
