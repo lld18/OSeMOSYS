@@ -4,11 +4,6 @@ layout: sub-page
 title: OSeMOSYS
 permalink: /about/
 ---
----
-layout: page
-title: About
-permalink: /about/
----
 
 OSeMOSYS was introduced in 2008 [(1)](#1) in the grey literature (and in peer-reviewed literature in 2011 [(2)](#2)). It sparked a revolution in open-source energy modeling systems. Unlike earlier models that demanded coding expertise, relied on existing codebases, or required costly software like GAMS, OSeMOSYS was developed from scratch and features a user-friendly Excel interface.
 
@@ -43,15 +38,15 @@ A summary of its recent advancements is available in a recent publication [(12)]
 
 ### References
 
-1. [https://doi.org/10.1016/j.rser.2025.115367](https://doi.org/10.1016/j.rser.2025.115367)  
-2. [https://doi.org/10.1016/j.enpol.2011.06.033](https://doi.org/10.1016/j.enpol.2011.06.033)  
-3. Scopus. [Scopus - Document search](https://www.scopus.com) (Accessed 2025-02).  
-4. [https://www.youtube.com/watch?v=Dbf97dsM8Rc](https://www.youtube.com/watch?v=Dbf97dsM8Rc)  
-5. [https://www.science.org/doi/10.1126/science.adf5848](https://www.science.org/doi/10.1126/science.adf5848)  
-6. [https://www.nature.com/articles/s41597-022-01737-0](https://www.nature.com/articles/s41597-022-01737-0)  
-7. [https://www.nature.com/articles/s41560-024-01510-0](https://www.nature.com/articles/s41560-024-01510-0)  
-8. [https://www.nature.com/articles/s41893-024-01367-x](https://www.nature.com/articles/s41893-024-01367-x)  
-9. [https://www.nature.com/articles/s41467-018-08275-7](https://www.nature.com/articles/s41467-018-08275-7)  
-10. [https://www.nature.com/articles/s41467-018-08275-6](https://www.nature.com/articles/s41467-018-08275-6)  
-11. [https://doi.org/10.1016/j.envsci.2022.07.007](https://doi.org/10.1016/j.envsci.2022.07.007)  
-12. [https://doi.org/10.1016/j.esd.2024.101629](https://doi.org/10.1016/j.esd.2024.101629)  
+1. (1)[https://doi.org/10.1016/j.rser.2025.115367](https://doi.org/10.1016/j.rser.2025.115367)  
+2. (2)[https://doi.org/10.1016/j.enpol.2011.06.033](https://doi.org/10.1016/j.enpol.2011.06.033)  
+3. (3)Scopus. [Scopus - Document search](https://www.scopus.com) (Accessed 2025-02).  
+4. (4)[https://www.youtube.com/watch?v=Dbf97dsM8Rc](https://www.youtube.com/watch?v=Dbf97dsM8Rc)  
+5. (5)[https://www.science.org/doi/10.1126/science.adf5848](https://www.science.org/doi/10.1126/science.adf5848)  
+6. (6)[https://www.nature.com/articles/s41597-022-01737-0](https://www.nature.com/articles/s41597-022-01737-0)  
+7. (7)[https://www.nature.com/articles/s41560-024-01510-0](https://www.nature.com/articles/s41560-024-01510-0)  
+8. (8)[https://www.nature.com/articles/s41893-024-01367-x](https://www.nature.com/articles/s41893-024-01367-x)  
+9. (9)[https://www.nature.com/articles/s41467-018-08275-7](https://www.nature.com/articles/s41467-018-08275-7)  
+10. (10)[https://www.nature.com/articles/s41467-018-08275-6](https://www.nature.com/articles/s41467-018-08275-6)  
+11. (11)[https://doi.org/10.1016/j.envsci.2022.07.007](https://doi.org/10.1016/j.envsci.2022.07.007)  
+12. (12)[https://doi.org/10.1016/j.esd.2024.101629](https://doi.org/10.1016/j.esd.2024.101629)  
