@@ -18,10 +18,10 @@ A summary of its recent advancements is available in a recent publication [(12)]
 <div class="container text-center my-5">
   <div class="row justify-content-center">
 
-    <div class="col-md-4 mb-4">
+    <div class="col-md-4 mb-4 d-flex flex-column align-items-center">
       <a href="https://github.com/OSeMOSYS" target="_blank" style="text-decoration: none;">
         <!-- GitHub SVG icon -->
-        <svg height="80" viewBox="0 0 16 16" version="1.1" width="80" aria-hidden="true" class="mb-2">
+        <svg height="80" viewBox="0 0 16 16" version="1.1" width="80" aria-hidden="true" class="mb-3">
           <path fill-rule="evenodd" fill="#000000" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 
           6.53 5.47 7.59.4.07.55-.17.55-.38 
           0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52
@@ -36,14 +36,14 @@ A summary of its recent advancements is available in a recent publication [(12)]
           2.2 0 .21.15.46.55.38A8.013 8.013 
           0 0016 8c0-4.42-3.58-8-8-8z"></path>
         </svg>
-        <h3 class="alt-h3 text-primary">Our GitHub Repository</h3>
+        <h3 class="alt-h3 text-primary mt-2">Our GitHub Repository</h3>
       </a>
     </div>
 
-    <div class="col-md-4 mb-4">
+    <div class="col-md-4 mb-4 d-flex flex-column align-items-center">
       <a href="https://osemosys.readthedocs.io/en/latest/index.html" target="_blank" style="text-decoration: none;">
         <!-- Document SVG icon -->
-        <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="mb-2">
+        <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="mb-3">
           <path d="M4 2C2.9 2 2 2.9 2 4V20C2 21.1 
           2.9 22 4 22H20C21.1 22 22 21.1 22 
           20V8L16 2H4Z" fill="#eeeeee"/>
@@ -56,16 +56,17 @@ A summary of its recent advancements is available in a recent publication [(12)]
           21 12 21C13.5 21 14.5 20.5 15.5 
           19.5" stroke="#000000" stroke-width="2"/>
         </svg>
-        <h3 class="alt-h3 text-primary">Our Model Documentation</h3>
+        <h3 class="alt-h3 text-primary mt-2">Our Model Documentation</h3>
       </a>
     </div>
 
   </div>
 </div>
 
-
   </div>
 </div>
+
+
 
 ---
 
