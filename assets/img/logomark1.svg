@@ -1,0 +1,9 @@
+
+<svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700');
+  </style>
+  <text x="0" y="30" font-family="Roboto, sans-serif" font-size="22" font-weight="bold" fill="white">
+    OSeMOSYS
+  </text>
+</svg>
