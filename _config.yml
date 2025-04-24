@@ -55,7 +55,7 @@
 #   - vendor/ruby/
 
 # global settings
-title: "The Climate, Land (Food), Energy and Water systems approach (CLEWs)"
+title: "The Open Source Energy Modelling System (OSeMOSYS)"
 description: "GitHub helps government build software better, together"
 permalink: "/stories/:title"
 # url: https://government.github.com
