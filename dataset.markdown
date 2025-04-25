@@ -20,18 +20,12 @@ permalink: /dataset/
           <a href="https://climatecompatiblegrowth.com/starter-kits/" target="_blank" class="btn btn-outline">Explore Starter Kits</a>
         </p>
       </div>
-      <div class="col-md-6 text-center">
-        <img src="/assets/img/SDK.png" alt="Starter Data Kits" style="max-width: 100%; border-radius: 10px;">
-      </div>
     </div>
 
     <hr>
 
     <h2 class="alt-h2 mt-5">🖥️ Modelling User Interface for OSeMOSYS (MUIO)</h2>
     <div class="row align-items-center mb-5">
-      <div class="col-md-6 text-center">
-        <img src="/assets/img/MUIO.png" alt="MUIO Interface" style="max-width: 100%; border-radius: 10px;">
-      </div>
       <div class="col-md-6">
         <p>Enhance your skills in energy systems modelling with our user-friendly interface and additional learning materials, enabling comprehensive national-level modelling of the power and transport sectors.</p>
         <ul>

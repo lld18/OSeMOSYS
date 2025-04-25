@@ -21,18 +21,13 @@ permalink: /learning_capacity/
       <li><a href="https://www.open.edu/openlearncreate/course/view.php?id=11535" target="_blank">Access for Mac</a></li>
     </ul>
   </div>
-  <div class="col-md-6 text-center">
-    <img src="/assets/img/energyandflexibility.png" alt="Energy and Flexibility" style="max-width:100%; border-radius: 10px;">
-  </div>
+
 </div>
 
 <hr>
 
 <h2 class="alt-h2 mt-5">🎓 Energy Modelling Community (YouTube Playlist)</h2>
 <div class="row align-items-center mb-4">
-  <div class="col-md-6 text-center">
-    <img src="/assets/img/EMC.png" alt="Energy Modelling Community Logo" style="max-width:100px; margin-bottom: 10px;">
-  </div>
   <div class="col-md-6">
     <p>Explore insights and community discussions from the Energy Modelling Platform and Climate Compatible Growth events.</p>
     <p>
