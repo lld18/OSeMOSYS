@@ -150,6 +150,50 @@ permalink: /
   </div>
   <div style="overflow: hidden;">
 
+    <div class="container text-center">
+      <h2 class="alt-h2 mb-4">Active Partner Institutions and Programmes</h2>
+      <div class="logo-grid">
+  
+        <a href="https://ec.europa.eu/" target="_blank">
+          <img src="{{ site.baseurl }}/assets/img/partners/european-commission.png" alt="European Commission">
+        </a>
+  
+        <a href="https://www.iaea.org/" target="_blank">
+          <img src="{{ site.baseurl }}/assets/img/partners/iaea.png" alt="IAEA">
+        </a>
+  
+        <a href="https://www.irena.org/" target="_blank">
+          <img src="{{ site.baseurl }}/assets/img/partners/irena.png" alt="IRENA">
+        </a>
+  
+        <a href="https://www.afdb.org/" target="_blank">
+          <img src="{{ site.baseurl }}/assets/img/partners/afdb.png" alt="AfDB">
+        </a>
+  
+        <a href="https://www.worldbank.org/" target="_blank">
+          <img src="{{ site.baseurl }}/assets/img/partners/worldbank.png" alt="World Bank">
+        </a>
+  
+        <a href="https://www.kth.se/en" target="_blank">
+          <img src="{{ site.baseurl }}/assets/img/partners/kth.png" alt="KTH">
+        </a>
+  
+        <a href="https://www.uct.ac.za/" target="_blank">
+          <img src="{{ site.baseurl }}/assets/img/partners/uct.png" alt="University of Cape Town">
+        </a>
+  
+        <a href="https://www.unido.org/" target="_blank">
+          <img src="{{ site.baseurl }}/assets/img/partners/unido.png" alt="UNIDO">
+        </a>
+  
+        <a href="https://www.sei.org/" target="_blank">
+          <img src="{{ site.baseurl }}/assets/img/partners/sei.png" alt="SEI">
+        </a>
+  
+      </div>
+    </div>
+  </section>
+
         <div class="row justify-content-center">
     
           <div class="col-6 col-md-2 mb-4">
@@ -253,16 +297,27 @@ permalink: /
     </section>
     
     <style>
-    .partner-logo {
-      height: 90px;
-      width: auto;
-      object-fit: contain;
-      filter: brightness(1);
-      transition: filter 0.3s ease;
-    }
-    .partner-logo:hover {
-      filter: brightness(0.7);
-    }
+    .logo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.logo-grid a {
+  display: inline-block;
+  transition: filter 0.3s ease;
+}
+
+.logo-grid a:hover img {
+  filter: brightness(0.7);
+}
+
+.logo-grid img {
+  max-height: 80px;
+  width: auto;
+  object-fit: contain;
+}
     </style>
 
     {% assign count = 0 %}
