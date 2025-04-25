@@ -13,19 +13,33 @@ permalink: /learning_capacity/
   <div class="col-lg-10 mx-auto text-left">
 
     <h2 class="alt-h2 mt-5">📘 Open University Course on Energy System Modelling using OSeMOSYS</h2>
+<div class="row align-items-center mb-4">
+  <div class="col-md-6">
     <p>Learn the basic concepts of building an OSeMOSYS model from scratch through a self-paced online course featuring theory and hands-on exercises, specially designed for beginners.</p>
     <ul>
       <li><a href="https://www.open.edu/openlearncreate/course/view.php?id=11534" target="_blank">Access for Windows</a></li>
       <li><a href="https://www.open.edu/openlearncreate/course/view.php?id=11535" target="_blank">Access for Mac</a></li>
     </ul>
+  </div>
+  <div class="col-md-6 text-center">
+    <img src="/assets/img/energyandflexibility.png" alt="Energy and Flexibility" style="max-width:100%; border-radius: 10px;">
+  </div>
+</div>
 
-    <hr>
+<hr>
 
-    <h2 class="alt-h2 mt-5">🎓 Energy Modelling Community (YouTube Playlist)</h2>
+<h2 class="alt-h2 mt-5">🎓 Energy Modelling Community (YouTube Playlist)</h2>
+<div class="row align-items-center mb-4">
+  <div class="col-md-6 text-center">
+    <img src="/assets/img/EMC.png" alt="Energy Modelling Community Logo" style="max-width:100px; margin-bottom: 10px;">
+  </div>
+  <div class="col-md-6">
     <p>Explore insights and community discussions from the Energy Modelling Platform and Climate Compatible Growth events.</p>
     <p>
       <a href="https://www.youtube.com/watch?v=of8JpyEd8_Y&list=PLhLN8V8JSUnJgt4SIE7gnXXncVEaXh0Ir" target="_blank" class="btn btn-outline">Watch on YouTube</a>
     </p>
+  </div>
+</div>
 
     <hr>
 
