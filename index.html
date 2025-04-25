@@ -144,11 +144,126 @@ permalink: /
     filter: brightness(0.8);
   }
   </style>
-  
+
   <div class="container-lg p-responsive py-5 py-md-6">
     <h2 class="alt-h2 text-center mb-3 mt-lg-6">Active partner institutions and programmes</h2>
   </div>
   <div style="overflow: hidden;">
+
+        <div class="row justify-content-center">
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://ec.europa.eu/" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/european-commission.png" class="img-fluid partner-logo" alt="European Commission">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.iaea.org/" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/iaea.png" class="img-fluid partner-logo" alt="IAEA">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.irena.org/" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/irena.png" class="img-fluid partner-logo" alt="IRENA">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.afdb.org/" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/afdb.png" class="img-fluid partner-logo" alt="African Development Bank">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.ncsu.edu/" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/ncsu.png" class="img-fluid partner-logo" alt="North Carolina State University">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.psi.ch/en" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/psi.png" class="img-fluid partner-logo" alt="Paul Scherrer Institut">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.sfu.ca/" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/sfu.png" class="img-fluid partner-logo" alt="Simon Fraser University">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.stanford.edu/" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/stanford.png" class="img-fluid partner-logo" alt="Stanford University">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://sdgs.un.org/about/desa" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/undesa.png" class="img-fluid partner-logo" alt="UN DESA">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.ucl.ac.uk/" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/ucl.png" class="img-fluid partner-logo" alt="UCL">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.uct.ac.za/" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/uct.png" class="img-fluid partner-logo" alt="University of Cape Town">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.worldbank.org/" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/worldbank.png" class="img-fluid partner-logo" alt="World Bank Group">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.worldwildlife.org/" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/wwf.png" class="img-fluid partner-logo" alt="WWF">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.kth.se/en" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/kth.png" class="img-fluid partner-logo" alt="KTH Royal Institute of Technology">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.sei.org/" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/sei.png" class="img-fluid partner-logo" alt="SEI">
+            </a>
+          </div>
+    
+          <div class="col-6 col-md-2 mb-4">
+            <a href="https://www.unido.org/" target="_blank">
+              <img src="{{ site.baseurl }}/assets/img/partners/unido.png" class="img-fluid partner-logo" alt="UNIDO">
+            </a>
+          </div>
+    
+        </div>
+      </div>
+    </section>
+    
+    <style>
+    .partner-logo {
+      height: 90px;
+      width: auto;
+      object-fit: contain;
+      filter: brightness(1);
+      transition: filter 0.3s ease;
+    }
+    .partner-logo:hover {
+      filter: brightness(0.7);
+    }
+    </style>
 
     {% assign count = 0 %}
     {% for group in site.data.governments %}
