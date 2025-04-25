@@ -1,2 +1,2 @@
-# clews-framework.github.io
-Website for CLEWs
+
+Website for OSeMOSYS
