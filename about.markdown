@@ -6,20 +6,65 @@ permalink: /about/
 ---
 
 <section class="bg-gray-light container-lg p-responsive py-4 py-md-6 my-lg-6 fade-in-center">
-  <div class="text-center">
+  
+   <div class="col-md-10 mx-auto text-center animate-in">
+    <h2 class="alt-h2 mb-4">About OSeMOSYS</h2>
 
-  <h1 class="alt-h1 mb-4">About OSeMOSYS</h1>
+    <p class="alt-lead text-gray text-justify-between">
+      <strong>OSeMOSYS</strong> is a full-fledged systems optimization model for long-run energy planning.
+      The initial working code of OSeMOSYS was published in 2008 in a presentation at the International Energy Workshop in Paris at the IEA
+      (<a href="https://www.osemosys.org/uploads/1/8/5/0/18504136/osemosys_iea_paris2008.pdf" target="_blank">the date stamped PDF with the original code can be found here</a>).
+      Ongoing efforts since then have resulted in a more robust version of the code, which is openly available.
+    </p>
 
-  <div class="col-lg-10 mx-auto text-left">
-    <p>OSeMOSYS was introduced in 2008 <a href="#1">(1)</a> in the grey literature (and in peer-reviewed literature in 2011 <a href="#2">(2)</a>). It sparked a revolution in open-source energy modeling systems. Unlike earlier models that demanded coding expertise, relied on existing codebases, or required costly software like GAMS, OSeMOSYS was developed from scratch and features a user-friendly Excel interface.</p>
+    <h3 class="alt-h3 mt-5">What does it do?</h3>
+    <p class="text-gray text-justify-between">
+      OSeMOSYS identifies the most cost-effective approach for capacity expansion and energy generation,
+      focusing on minimizing discounted system costs. It meets exogenously defined final energy demands while considering existing technological attributes
+      such as costs, lifetimes, and system constraints like greenhouse gas emission limits, renewable energy targets, and investment caps.
+    </p>
 
-    <p>It has emerged as the preferred choice for academics, with Scopus data showing it supports nearly double the peer-reviewed publications of other open-source models cumulatively and annually <a href="#3">(3)</a>. This widespread adoption stems from its accessible code, intuitive interface <a href="#4">(4)</a>, and a dynamic community of analysts who have published in leading journals, including <em>Science</em> <a href="#5">(5)</a> and <em>Nature Journals</em> <a href="#6">(6–10)</a>.</p>
+    <h3 class="alt-h3 mt-5">What type of energy system can you model?</h3>
+    <p class="text-gray text-justify-between">
+      You can model any type of energy system, starting from primary sources (e.g., coal mines), through fuel processing (e.g., refineries, electrolyzers),
+      to end-use technologies (e.g., electric vehicles, industrial furnaces). Additionally, you can represent broader systems, such as land use and water,
+      to create integrated assessment models.
+    </p>
 
-    <p>Far from being just a sector-coupled electricity model, OSeMOSYS is a versatile model generator, enabling innovative applications such as the world’s first open-source, open-data global electricity model <a href="#6">(6)</a> and national-level multi-domain Climate-, Land-, Energy-, and Water-systems (CLEWs) models <a href="#11">(11)</a>.</p>
+    <h3 class="alt-h3 mt-5">Who is the target audience?</h3>
+    <p class="text-gray text-justify-between">
+      OSeMOSYS is suitable for everyone working in the energy field, including governmental bodies, industry players, and academia.
+      The framework has proven its usefulness across a wide range of applications, from master's theses
+      (<a href="https://doi.org/10.1016/j.rser.2024.114555" target="_blank">Hersaputri et al., 2024</a>)
+      to national decarbonization plans
+      (<a href="https://doi.org/10.1016/j.enpol.2020.111089" target="_blank">Godínez-Zamora et al., 2020</a>).
+    </p>
 
-    <p>A summary of its recent advancements is available in a recent publication <a href="#12">(12)</a>.</p>
+    <h3 class="alt-h3 mt-5">What outcomes can you obtain?</h3>
+    <p class="text-gray text-justify-between">
+      Key outputs from OSeMOSYS include system costs, installed capacities, energy generation, and emissions.
+      Results can be further broken down by type (e.g., investment, operating, penalties), by year, by region, by sector, and by technology,
+      depending on the model design.
+    </p>
+
+    <h3 class="alt-h3 mt-5">How can you start with OSeMOSYS?</h3>
+    <p class="text-gray text-justify-between">
+      Go ahead and download our Modelling User Interface for OSeMOSYS (MUIO).
+      MUIO is an all-in-one application that lets you manage data, run models, and visualize results seamlessly.
+      For training on how to use both the model and the interface, you can take our free, certified course at the Open University
+      <a href="https://www.open.edu/openlearncreate/course/view.php?id=6824" target="_blank">here</a>.
+      To download the interface and learn more, please visit
+      <a href="https://osemosys.readthedocs.io/en/latest/MUIO.html" target="_blank">this site</a>.
+    </p>
+
+    <h3 class="alt-h3 mt-5">How can you contribute?</h3>
+    <p class="text-gray text-justify-between">
+      OSeMOSYS is currently available in three languages: (1) GNUMathprog, (2) Python, and (3) GAMS.
+      Versions (1) and (2) can be run fully open-source, from source to solver.
+      All code bases are maintained on <a href="https://github.com/OSeMOSYS" target="_blank">GitHub</a>, and contributions from the community are welcome.
+    </p>
   </div>
-
+  
   <!-- Icon Links -->
   <div class="container text-center my-5">
   <div class="row justify-content-center">
@@ -71,26 +116,7 @@ permalink: /about/
 
   </div>
 
-  <!-- References -->
-  <div class="mt-6">
-    <h2 class="alt-h2 text-center mb-4">References</h2>
-    <ul class="text-left col-lg-8 mx-auto">
-  <li id="1"><a href="https://doi.org/10.1016/j.rser.2025.115367">1. DOI: 10.1016/j.rser.2025.115367</a></li>
-  <li id="2"><a href="https://doi.org/10.1016/j.enpol.2011.06.033">2. DOI: 10.1016/j.enpol.2011.06.033</a></li>
-  <li id="3"><a href="https://www.scopus.com">3. Scopus (Accessed 2025-02)</a></li>
-  <li id="4"><a href="https://www.youtube.com/watch?v=Dbf97dsM8Rc">4. YouTube demo</a></li>
-  <li id="5"><a href="https://www.science.org/doi/10.1126/science.adf5848">5. Science publication</a></li>
-  <li id="6"><a href="https://www.nature.com/articles/s41597-022-01737-0">6. Nature Scientific Data</a></li>
-  <li id="7"><a href="https://www.nature.com/articles/s41560-024-01510-0">7. Nature Energy</a></li>
-  <li id="8"><a href="https://www.nature.com/articles/s41893-024-01367-x">8. Nature Sustainability</a></li>
-  <li id="9"><a href="https://www.nature.com/articles/s41467-018-08275-7">9. Nature Communications (1)</a></li>
-  <li id="10"><a href="https://www.nature.com/articles/s41467-018-08275-6">10. Nature Communications (2)</a></li>
-  <li id="11"><a href="https://doi.org/10.1016/j.envsci.2022.07.007">11. DOI: 10.1016/j.envsci.2022.07.007</a></li>
-  <li id="12"><a href="https://doi.org/10.1016/j.esd.2024.101629">12. DOI: 10.1016/j.esd.2024.101629</a></li>
-</ul>
-  </div>
-
-  </div>
+  
 </section>
 
 <style>
