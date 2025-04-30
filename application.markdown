@@ -6,26 +6,37 @@ permalink: /applications/
 ---
 <section class="bg-gray-light container-lg p-responsive py-4 py-md-6 my-lg-6 fade-in-center">
   <div class="text-center">
+ <h2 class="alt-h2 mb-4">OSeMOSYS Applications</h2>
 
-  <h1 class="alt-h1 mb-4">Hundreds of OSeMOSYS Applications and Papers</h1>
+    <p>OSeMOSYS is a fundamental building block for a wide range of applications across government, industry, and academia. Several examples include:</p>
 
-  <div class="col-lg-10 mx-auto text-left">
-    <p>OSeMOSYS is used around the world — from contributions to the <strong>IPCC</strong>, to <strong>UN</strong> and <strong>World Bank Group</strong> discussion papers, to official <strong>national planning</strong> documents and <strong>academic research</strong>.</p>
-
-    <p>Explore a wide range of applications, spanning scholarly work, open data sets, and global to local case studies.</p>
-  </div>
-
-  <hr>
-
-  <div class="col-lg-10 mx-auto text-left">
-    <h2 class="alt-h2">Search and Explore</h2>
-    <p>Recent applications can be found via the following links:</p>
+    <h3>Governments</h3>
     <ul>
-      <li><a href="https://scholar.google.com/scholar?q=OSeMOSYS" target="_blank">Search scholarly applications</a></li>
-      <li><a href="https://www.scopus.com" target="_blank">Browse last year’s general outputs</a></li>
-      <li><a href="https://energydata.info" target="_blank">Access open data sets</a></li>
+      <li><a href="https://energypedia.info/wiki/LTEM_-_Energy_Department_of_the_Cyprus_Institute">National Energy and Climate Plan in Cyprus</a></li>
+      <li><a href="https://www.wri.org/research/costos-y-beneficios-de-la-descarbonizacion-de-la-economia-de-costa-rica-evaluacion-del-plan-nacional-de-descarbonizacion-bajo-incertidumbre.pdf">National Decarbonization Plan in Costa Rica</a></li>
+      <li><a href="https://www.afd.fr/es/actualites/ecuador-construye-su-camino-hacia-la-descarbonizacion">National Climate Change Mitigation Plan in Ecuador</a></li>
+      <li><a href="https://www.rvo.nl/sites/default/files/2023-06/Report-Final-Draft_Signed-01-1.pdf">Green Hydrogen and Ammonia Roadmap in Lao PDR</a></li>
     </ul>
-  </div>
+
+    <h3>Industry and Think Tanks</h3>
+    <ul>
+      <li><a href="https://www.globalccsinstitute.com/wp-content/uploads/2021/10/genzo1123.pdf">Global CCS Institute</a></li>
+      <li><a href="https://www.kapsarc.org/research/projects/kosemosys/">King Abdullah Petroleum Studies and Research Center</a></li>
+      <li><a href="https://www.seforall.org/news/driving-to-the-outcomes-with-an-ecosystem-approach">Sustainable Energy for All</a></li>
+      <li><a href="https://github.com/transition-zero/tz-osemosys">Transition Zero – TZ-OSeMOSYS</a></li>
+    </ul>
+
+    <h3>Academia</h3>
+    <ul>
+      <li><a href="https://kth.diva-portal.org/smash/get/diva2:1576316/FULLTEXT01.pdf">Politecnico di Milano – Long-term energy planning with highly-detailed demand modelling for Egypt</a></li>
+      <li><a href="https://kth.diva-portal.org/smash/get/diva2:1576316/FULLTEXT01.pdf">KTH – Hydrogen and electricity system dynamics in the Nordic region</a></li>
+      <li><a href="https://www.lboro.ac.uk/research/steer/research/themes/systems-analysis/">Loughborough University – STEER Centre for Sustainable Transitions</a></li>
+      <li><a href="https://spiral.imperial.ac.uk/handle/10044/1/104682">Imperial College London – Energy security modelling in Armenia</a></li>
+    </ul>
+
+    <hr class="my-5" />
+ </div>
+</section>
 
   <hr>
 
@@ -76,26 +87,51 @@ permalink: /applications/
   <hr>
 
   <div class="col-lg-10 mx-auto text-left">
-    <h2 class="alt-h2">Recommended Reading</h2>
-    <p>For a broader analysis of applications and advancements in OSeMOSYS, see the following peer-reviewed publications:</p>
+  <h2 class="alt-h2">Recommended Reading</h2>
+  <p>For a broader analysis of applications and advancements in OSeMOSYS, see the following peer-reviewed publications:</p>
 
-    <ol>
-      <li><strong>Niet T, Shivakumar A, Gardumi F, Usher W, Williams E, Howells M.</strong><br>
+  <ol>
+    <li>
+      <strong>Niet T, Shivakumar A, Gardumi F, Usher W, Williams E, Howells M.</strong><br>
       <em>Developing a community of practice around an open source energy modelling tool.</em><br>
       Energy Strategy Reviews, 2021.<br>
-      <a href="https://doi.org/10.1016/j.esr.2021.100650" target="_blank">https://doi.org/10.1016/j.esr.2021.100650</a></li>
+      <a href="https://doi.org/10.1016/j.esr.2021.100650" target="_blank">https://doi.org/10.1016/j.esr.2021.100650</a><br>
+      <small>
+        This paper outlines how OSeMOSYS helped establish a robust community of practice and outlines the tools and strategies used to grow engagement among modelers and policy users.
+      </small>
+    </li>
 
-      <li><strong>Gardumi F, Shivakumar A, Morrison R, Taliotis C, Broad O, Beltramo A, et al.</strong><br>
+    <li class="mt-4">
+      <strong>Gardumi F, Shivakumar A, Morrison R, Taliotis C, Broad O, Beltramo A, et al.</strong><br>
       <em>From the development of an open-source energy modelling tool to its application and the creation of communities of practice: The example of OSeMOSYS.</em><br>
       Energy Strategy Reviews, 2018.<br>
-      <a href="https://doi.org/10.1016/j.esr.2018.03.005" target="_blank">https://doi.org/10.1016/j.esr.2018.03.005</a></li>
+      <a href="https://doi.org/10.1016/j.esr.2018.03.005" target="_blank">https://doi.org/10.1016/j.esr.2018.03.005</a><br>
+      <small>
+        Describes the development history of OSeMOSYS and how it was applied globally in policy-relevant contexts, helping build institutional capacity through regional training efforts.
+      </small>
+    </li>
 
-      <li><strong>Plazas-Niño F, Tan N, Howells M, Foster V, Quirós-Tortós J.</strong><br>
-      <em>Uncovering the applications... A systematic literature review.</em><br>
+    <li class="mt-4">
+      <strong>Plazas-Niño F, Tan N, Howells M, Foster V, Quirós-Tortós J.</strong><br>
+      <em>Uncovering the applications, developments, and future research directions of the open-source energy modelling system (OSeMOSYS): A systematic literature review.</em><br>
       Energy for Sustainable Development, 2025.<br>
-      <a href="https://doi.org/10.1016/j.esd.2024.101629" target="_blank">https://doi.org/10.1016/j.esd.2024.101629</a></li>
-    </ol>
-  </div>
+      <a href="https://doi.org/10.1016/j.esd.2024.101629" target="_blank">https://doi.org/10.1016/j.esd.2024.101629</a><br>
+      <small>
+        This review categorizes and analyzes over a decade of peer-reviewed studies using OSeMOSYS, identifies emerging trends, and highlights future methodological improvements for open-source modelling.
+      </small>
+    </li>
+  </ol>
+</div>
+
+<Style>
+ol li small {
+  display: block;
+  margin-top: 0.5rem;
+  color: #555;
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+<style>
 
   <p class="mt-5"><a href="mailto:contact@osemosys.org">Have an application to showcase? Let us know →</a></p>
 

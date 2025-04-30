@@ -114,7 +114,6 @@ permalink: /about/
   </div>
 </div>
 
-  </div>
 
   
 </section>
